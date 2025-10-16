@@ -1,7 +1,7 @@
-## Olá, meu nome é Matheus Bruno, sou um Desenvolvedor Front-end em busca de novos desafios e aprendizados.
+# Olá, eu sou o Matheus 👋
+Estudante de Engenharia da Computação | Dev em formação.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,js,nodejs,notion,py,)](https://skillicons.dev)
-
 
 [![SevenZeroSev3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenzerosev3n)](https://github.com/sevenzerosev3n/github-readme-stats)
 
