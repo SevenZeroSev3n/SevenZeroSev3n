@@ -1,11 +1,6 @@
-# Olá, eu sou o Matheus 👋
+# Olá, eu sou o Matheus 
 Estudante de Engenharia da Computação | Dev em formação.
 
-
-
-[![SevenZeroSev3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenzerosev3n)](https://github.com/sevenzerosev3n/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenzerosev3n)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,js,nodejs,notion,py,)](https://skillicons.dev)
 <!--
