@@ -53,18 +53,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SevenZeroSev3n&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SevenZeroSev3n&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SevenZeroSev3n&theme=dark&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" width="55%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SevenZeroSev3n&theme=react-dark&bg_color=0d1117&color=2563eb&line=2563eb&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
