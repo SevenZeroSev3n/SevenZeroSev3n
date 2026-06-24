@@ -7,7 +7,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusbruno707)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusbruno.ibi@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=SevenZeroSev3n&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)
 
 </div>
