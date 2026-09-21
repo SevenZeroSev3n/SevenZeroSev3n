@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=160&section=header&text=Matheus%20Bruno&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20Jr.&descAlignY=58&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=160&section=header&text=Matheus%20Bruno&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20Jr.&descAlignY=58&descColor=8b949e" width="100%"/>
 
 </div>
 
@@ -15,9 +15,9 @@
 
 ### 👋 About me · Sobre mim
 
-**EN** — Junior Software Developer focused on building real-world SaaS products and AI-powered tools. Currently developing **Voyvod** (B2B2C SaaS platform) and **Personal Agents** (self-hosted multi-agent AI orchestration). Fast learner, open to remote opportunities.
+**EN** — Junior Full Stack Developer focused on building real-world SaaS products and AI-powered tools. Currently developing **Voyvod** (B2B2C SaaS platform) and **Personal Agents** (self-hosted multi-agent AI orchestration). Fast learner, open to remote opportunities.
 
-**PT** — Desenvolvedor de Software Júnior focado em construir produtos SaaS reais e ferramentas com IA. Atualmente desenvolvendo o **Voyvod** (plataforma SaaS B2B2C) e o **Personal Agents** (orquestração self-hosted de agentes de IA). Aprendizado rápido, aberto a oportunidades remotas.
+**PT** — Desenvolvedor Full Stack Júnior focado em construir produtos SaaS reais e ferramentas com IA. Atualmente desenvolvendo o **Voyvod** (plataforma SaaS B2B2C) e o **Personal Agents** (orquestração self-hosted de agentes de IA). Aprendizado rápido, aberto a oportunidades remotas.
 
 ---
 
@@ -48,7 +48,7 @@
 |--------|-------------|-------|
 | **Voyvod SaaS** | B2B2C platform with cash flow, CRM and product catalog modules. Multi-tenant REST API architecture. | `Next.js` `TypeScript` `PostgreSQL` `Neon` |
 | **Personal Agents** | Self-hosted multi-agent AI platform. Three-layer memory: Obsidian vault, ChromaDB/RAG and identity layer. MCP server with fenced write access. | `Python` `MCP` `Ollama` `ChromaDB` `Docker` |
-| **Clínica Dr. Higor** | Premium institutional site with Glassmorphism design. Scheduling form with Zod validation, Honeypot, rate limiting and transactional email via Resend. | `Vite` `React 19` `Tailwind` `Zod` `Resend` |
+| **Clínica Dr. Higor** | Premium institutional site with Glassmorphism design. Scheduling form with Zod validation, Honeypot, rate limiting and transactional email via Resend. | `Vite` <code>React&nbsp;19</code> `Tailwind` `Zod` `Resend` |
 
 ---
 
